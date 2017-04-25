@@ -1,0 +1,17 @@
+{
+  "name": "nodeeg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "connect": "^3.6.1",
+    "node": "^0.0.0",
+    "yargs": "^7.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Deepak Mahana",
+  "license": "ISC"
+}
